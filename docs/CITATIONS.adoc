@@ -6,7 +6,7 @@
 [source,bibtex]
 ----
 @software{v-graphql_2026,
-  author = {Jewell, Jonathan},
+  author = {Jewell, Jonathan D.A.},
   title = {v-graphql},
   year = {2026},
   url = {https://github.com/hyperpolymath/v-graphql},
@@ -24,7 +24,7 @@ Jonathan D.A. Jewell, 'v-graphql' (2026) <https://github.com/hyperpolymath/v-gra
 
 == MLA
 
-Jewell, Jonathan "v-graphql." 2026, github.com/hyperpolymath/v-graphql.
+Jewell, Jonathan D.A. "v-graphql." 2026, github.com/hyperpolymath/v-graphql.
 
 == APA 7
 

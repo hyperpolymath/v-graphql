@@ -18,7 +18,7 @@ tier = "infrastructure"  # 1 | 2 | infrastructure
 
 [related-projects]
 # relationship types: sibling-standard, dependency, dependent, inspiration, potential-consumer
-# - { name = "language-bridges", relationship = "sibling-standard" }
+# - { name = "v-rest", relationship = "sibling-standard" }
 # - { name = "hypatia", relationship = "potential-consumer" }
 
 [integration-points]
